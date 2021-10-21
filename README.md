@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ericart58
-- 👀 I’m interested in electrinic
+- 👀 I’m interested in electronics
 - 🌱 I’m currently learning about esp8266 and control motors wifi
 - 💞️ I’m living at barcelona and jubilee
 - 
